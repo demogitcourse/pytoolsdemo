@@ -5,4 +5,4 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/pytoolsdemo.svg?color=green)](https://python.org)
 [![CI](https://github.com/guiwitz/pytoolsdemo/actions/workflows/ci.yml/badge.svg)](https://github.com/guiwitz/pytoolsdemo/actions/workflows/ci.yml)
 
-Demo package for teaching
+This is not a usable project, only a toy package to demonstrate Python packaging and GitHub features such as PRs, Actions etc.
